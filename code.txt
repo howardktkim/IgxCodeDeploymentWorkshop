@@ -1,0 +1,8 @@
+Lorem ipsum dolar
+Here is a second line
+
+Adding a new feature
+line 5
+line 6
+line 7
+Ending new feature
